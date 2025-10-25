@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=n
+comment1.target=Board(int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=i\ j\ b
+comment2.target=Board(int,\ int,\ Board)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=int\ queensOn()
+comment5.params=
+comment5.target=SList\ coordinates()
+comment6.params=i\ j
+comment6.target=boolean\ underAttack(int,\ int)
+comment7.params=i\ j\ c
+comment7.target=boolean\ checkLists(int,\ int,\ SList)
+comment8.params=i\ j
+comment8.target=Board\ addQueen(int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ arrangement()
+numComments=11

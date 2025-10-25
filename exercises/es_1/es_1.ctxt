@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=es_1
+comment1.params=inf\ sup
+comment1.target=StringSList\ intervallo(int,\ int)
+comment2.params=btr
+comment2.target=int\ btrVal(java.lang.String)
+comment3.params=btd
+comment3.target=int\ btdVal(java.lang.String)
+comment4.params=n
+comment4.target=java.lang.String\ btrRep(int)
+comment5.params=n
+comment5.target=java.lang.String\ btdRep(int)
+comment6.params=btr\ n
+comment6.target=StringSList\ btrRange(java.lang.String,\ int)
+numComments=7
